@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Descripción del laboratorio
+##  Descripción del laboratorio
 
 Este laboratorio tiene como objetivo implementar y analizar los algoritmos de **cifrado simétrico** DES, 3DES y AES-256, utilizando el modo **CBC (Cipher Block Chaining)**.  
 Se trabajó en Python empleando la librería **PyCryptodome** para realizar los procesos de cifrado y descifrado, además de validar y ajustar las claves según los requisitos de cada algoritmo.
@@ -16,7 +16,7 @@ Esto permitió aislar el entorno del sistema y evitar posibles conflictos o erro
 
 ---
 
-## 📁 Contenido del repositorio
+##  Contenido del repositorio
 
 ```
 ├── cifrados.py          # Código con implementación de DES, 3DES y AES-256
@@ -25,7 +25,7 @@ Esto permitió aislar el entorno del sistema y evitar posibles conflictos o erro
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 - Python 3.8 o superior  
 - Librería PyCryptodome  
@@ -44,7 +44,7 @@ pip install pycryptodome
 
 ---
 
-## ▶️ Uso del programa
+##  Uso del programa
 
 Ejecutar el script principal desde la terminal:
 
@@ -70,7 +70,7 @@ python3 cifrados.py
 
 ---
 
-## 🔐 Ejemplo de uso
+##  Ejemplo de uso
 
 **Cifrado con AES-256 (modo CBC):**
 
