@@ -98,10 +98,10 @@ TEXTO PLANO: felipe
 
 Para validar los resultados obtenidos con el código, se compararon los cifrados con los generados por las siguientes herramientas:
 
-- **DES:** [https://www.devglan.com/online-tools/triple-des-encrypt-decrypt](https://www.devglan.com/online-tools/triple-des-encrypt-decrypt)  
+- **DES:** [https://anycript.com/crypto/des](https://anycript.com/crypto/des)  
 - **AES-256:** [https://www.devglan.com/online-tools/aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption)  
-- **3DES:** [https://anycript.com/crypto/des](https://anycript.com/crypto/des)
-
+- **3DES:** [https://www.devglan.com/online-tools/triple-des-encrypt-decrypt](https://www.devglan.com/online-tools/triple-des-encrypt-decrypt
+)
 ---
 
 ##  Conclusión
